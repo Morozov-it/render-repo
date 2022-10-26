@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/116.df669256.chunk.js","mappings":"iIAQA,UANkB,WACd,OACI,sCAEP,C","sources":["pages/contracts/customers/index.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Customers = () => {\r\n    return (\r\n        <div>Customers</div>\r\n    )\r\n}\r\n\r\nexport default Customers"],"names":[],"sourceRoot":""}

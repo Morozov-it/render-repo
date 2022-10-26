@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/314.7ba1a285.chunk.js","mappings":"iIAQA,UANuB,WACnB,OACI,0CAEP,C","sources":["pages/directories/companyTypes/index.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Page: React.FC = () => {\r\n    return (\r\n        <div>Company types</div>\r\n    )\r\n}\r\n\r\nexport default Page"],"names":[],"sourceRoot":""}

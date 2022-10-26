@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[893],{5893:function(e,n,c){c.r(n);c(2791);var i=c(184);n.default=function(){return(0,i.jsx)("div",{children:"GPH services"})}}}]);
+//# sourceMappingURL=893.4f8b1d5b.chunk.js.map

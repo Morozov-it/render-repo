@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[132],{2132:function(e,n,i){i.r(n);i(2791);var r=i(184);n.default=function(){return(0,r.jsx)("div",{children:"Territories"})}}}]);
+//# sourceMappingURL=132.27bfa1ec.chunk.js.map

@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[222],{3222:function(e,n,c){c.r(n);c(2791);var t=c(184);n.default=function(){return(0,t.jsx)("div",{children:"Income and outcome articles "})}}}]);
+//# sourceMappingURL=222.135fd287.chunk.js.map

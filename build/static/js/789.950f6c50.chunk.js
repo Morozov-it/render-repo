@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[789],{7789:function(t,e,n){n.r(e);n(2791);var c=n(184);e.default=function(){return(0,c.jsx)("div",{children:"Contract statuses"})}}}]);
+//# sourceMappingURL=789.950f6c50.chunk.js.map

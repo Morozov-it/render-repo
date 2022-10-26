@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[427],{2427:function(e,n,t){t.r(n);t(2791);var c=t(184);n.default=function(){return(0,c.jsx)("div",{children:"Tax types"})}}}]);
+//# sourceMappingURL=427.9a6d53da.chunk.js.map

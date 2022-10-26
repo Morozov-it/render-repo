@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[669],{4132:function(e,n,t){t.r(n);t(2791);var c=t(184);n.default=function(){return(0,c.jsx)("div",{children:"Vacation types"})}}}]);
+//# sourceMappingURL=669.9d56dc28.chunk.js.map

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/669.9d56dc28.chunk.js","mappings":"iIAQA,UANuB,WACnB,OACI,2CAEP,C","sources":["pages/directories/vacationKinds/index.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Page: React.FC = () => {\r\n    return (\r\n        <div>Vacation types</div>\r\n    )\r\n}\r\n\r\nexport default Page"],"names":[],"sourceRoot":""}

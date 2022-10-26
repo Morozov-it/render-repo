@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[84],{2084:function(e,n,t){t.r(n);t(2791);var i=t(184);n.default=function(){return(0,i.jsx)("div",{children:"Legal entities"})}}}]);
+//# sourceMappingURL=84.acf030d7.chunk.js.map

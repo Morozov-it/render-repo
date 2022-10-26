@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[211],{5211:function(n,e,i){i.r(e);i(2791);var t=i(184);e.default=function(){return(0,t.jsx)("div",{children:"Job positions"})}}}]);
+//# sourceMappingURL=211.e1e7afdf.chunk.js.map

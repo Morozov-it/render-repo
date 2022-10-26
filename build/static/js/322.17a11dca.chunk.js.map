@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/322.17a11dca.chunk.js","mappings":"iIAQA,UANuB,WACnB,OACI,sCAEP,C","sources":["pages/directories/jobTypes/index.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Page: React.FC = () => {\r\n    return (\r\n        <div>Job types</div>\r\n    )\r\n}\r\n\r\nexport default Page"],"names":[],"sourceRoot":""}

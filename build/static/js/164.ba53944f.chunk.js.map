@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/164.ba53944f.chunk.js","mappings":"iIAQA,UANuB,WACnB,OACI,2CAEP,C","sources":["pages/directories/documentTypes/index.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Page: React.FC = () => {\r\n    return (\r\n        <div>Document types</div>\r\n    )\r\n}\r\n\r\nexport default Page"],"names":[],"sourceRoot":""}

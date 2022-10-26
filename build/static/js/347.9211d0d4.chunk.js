@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkclient=self.webpackChunkclient||[]).push([[347],{7347:function(e,n,c){c.r(n);c(2791);var u=c(184);n.default=function(){return(0,u.jsx)("div",{children:"Source of persons"})}}}]);
+//# sourceMappingURL=347.9211d0d4.chunk.js.map

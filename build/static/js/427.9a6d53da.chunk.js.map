@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/427.9a6d53da.chunk.js","mappings":"iIAQA,UANuB,WACnB,OACI,sCAEP,C","sources":["pages/directories/taxTypes/index.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Page: React.FC = () => {\r\n    return (\r\n        <div>Tax types</div>\r\n    )\r\n}\r\n\r\nexport default Page"],"names":[],"sourceRoot":""}
